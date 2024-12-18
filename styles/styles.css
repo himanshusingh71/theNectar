@@ -4,7 +4,7 @@ body{
     box-sizing: border-box;
 }
 
-.container-1{
+.container-1, .nav-content{
     margin-top: 6%;
 }
 /* Nav styles */
