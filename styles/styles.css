@@ -4,8 +4,12 @@ body{
     box-sizing: border-box;
 }
 
-.container-1, .nav-content{
+.container-1 {
     margin-top: 6%;
+}
+
+.nav-content{
+    margin-top: 20px;
 }
 /* Nav styles */
 #logo{
